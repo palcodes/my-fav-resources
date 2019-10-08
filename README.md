@@ -11,7 +11,7 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 5. Web components with fun - https://youtu.be/XCti72iChzg
 
 
-## Favorite Youtube channels   
+## Youtube channels   
 
 ```
 1. Dev Ed - https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
@@ -20,3 +20,8 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 4. LearnCode.academy - https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw
 5. Mayuko - https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ
 ```
+
+## Podcasts 
+1. React Podcast - Michael Chan
+2. Developer Tea - Spec
+3. Command Line Heroes - RedHat
