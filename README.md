@@ -8,6 +8,8 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 3. A interesting talk on git by Aniket Kadam - https://www.youtube.com/watch?v=5-JMOTy_9OE&t=33s
 4. Really helpful - https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 5. Web components with fun - https://youtu.be/XCti72iChzg
+6. A great overview of all state management techniques in Flutter https://youtu.be/3tm-R7ymwhc?list=PLOmVRGpjWDNVXOKDyC6mgc84MK4ohJCEN
+7. You can work/study with Marie live - https://www.youtube.com/channel/UC522iajK8pkuCoVanTpz_FQ
 
 
 ## Youtube channels
@@ -24,3 +26,4 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 4. The Python Podcasts. __init__ - Toblas Macey
 5. Fragmented Android Developer - Spec
 6. if/else - Mayuko Inoue
+7. Waveform: The MKBHD Podcasts - Marques Brownlee | Studio71
