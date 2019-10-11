@@ -29,5 +29,9 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 7. Waveform: The MKBHD Podcasts - Marques Brownlee | Studio71
 
 ## Conferences worth giving a visit
-1. ReactConf
-2. tiny Conf
+1. ReactConf 
+2. tiny Conf 
+3. PyCon
+4. JSConf
+5. Linux App Summit
+6. GDG DevFest - annual
