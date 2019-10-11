@@ -27,3 +27,7 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 5. Fragmented Android Developer - Spec
 6. if/else - Mayuko Inoue
 7. Waveform: The MKBHD Podcasts - Marques Brownlee | Studio71
+
+## Conferences worth giving a visit
+1. ReactConf
+2. tiny Conf
