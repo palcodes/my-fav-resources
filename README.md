@@ -12,12 +12,13 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 7. You can work/study with Marie live - https://www.youtube.com/channel/UC522iajK8pkuCoVanTpz_FQ
 
 
-## Youtube channels
+## Videos
 1. Dev Ed - https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
 2. Jake Wright - https://www.youtube.com/channel/UCc1Pn7FxieMohCZFPYEbs7w
 3. Jarvis Johnson - https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA 
 4. LearnCode.academy - https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw
 5. Mayuko - https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ
+6. twitch stream - mpj - https://www.twitch.tv/videos/497610359
 
 ## Podcasts 
 1. React Podcast - Michael Chan
