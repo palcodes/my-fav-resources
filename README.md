@@ -10,7 +10,8 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 5. Web components with fun - https://youtu.be/XCti72iChzg
 6. A great overview of all state management techniques in Flutter https://youtu.be/3tm-R7ymwhc?list=PLOmVRGpjWDNVXOKDyC6mgc84MK4ohJCEN
 7. You can work/study with Marie live - https://www.youtube.com/channel/UC522iajK8pkuCoVanTpz_FQ
-
+8. sentdex channel - https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
+9. Errichto - https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
 
 ## Videos
 1. Dev Ed - https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
