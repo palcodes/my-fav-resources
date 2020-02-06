@@ -40,4 +40,12 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 3. PyCon
 4. JSConf
 5. Linux App Summit
-6. GDG DevFest - annual
+6. GDG DevFest - annual (been to)
+
+## Local meetups I have been to & I recommend
+1. GDG MAD (original MAD Meetup) - Mumbai
+2. Mumbai Javascript Meetup
+3. Women Who Code - Mumbai
+4. Flutter Mumbai
+
+.. looking forward to more meetups around the world
