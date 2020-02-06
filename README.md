@@ -9,9 +9,11 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 3. A interesting talk on git by Aniket Kadam - https://www.youtube.com/watch?v=5-JMOTy_9OE&t=33s
 4. Really helpful - https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 5. Web components with fun - https://youtu.be/XCti72iChzg
-6. A great overview of all state management techniques in Flutter https://youtu.be/3tm-R7ymwhc?list=PLOmVRGpjWDNVXOKDyC6mgc84MK4ohJCEN
+6. State management - https://youtu.be/3tm-R7ymwhc?list=PLOmVRGpjWDNVXOKDyC6mgc84MK4ohJCEN
 7. You can work/study with Marie live - https://www.youtube.com/channel/UC522iajK8pkuCoVanTpz_FQ
 8. What is Javascript made of? - https://overreacted.io/what-is-javascript-made-of/
+9. The myth of "Real Javascript Developer" - https://youtu.be/Xt5qpbiqw2g?list=PL0DKRfeA3BsvcX5gwXMtHHLujQHmpfBTY
+10. A interesting video about ML skunkworks - https://youtu.be/QKVpIo5sfGA?list=PL0DKRfeA3BsvcX5gwXMtHHLujQHmpfBTY
 
 ## Channels
 1. Dev Ed - https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
