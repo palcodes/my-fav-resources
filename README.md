@@ -24,6 +24,8 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 6. twitch stream - mpj - https://www.twitch.tv/videos/497610359
 7. sentdex channel - https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
 8. Errichto - https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
+9. Honeypot Developer Documentaries - https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA
+10. LiveOverflow - https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 
 ## Podcasts 
 1. React Podcast - Michael Chan
