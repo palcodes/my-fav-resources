@@ -14,6 +14,7 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 8. What is Javascript made of? - https://overreacted.io/what-is-javascript-made-of/
 9. The myth of "Real Javascript Developer" - https://youtu.be/Xt5qpbiqw2g?list=PL0DKRfeA3BsvcX5gwXMtHHLujQHmpfBTY
 10. A interesting video about ML skunkworks - https://youtu.be/QKVpIo5sfGA?list=PL0DKRfeA3BsvcX5gwXMtHHLujQHmpfBTY
+11. Flutter - Optimize your performance - https://youtu.be/vVg9It7cOfY
 
 ## Channels
 1. Dev Ed - https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
