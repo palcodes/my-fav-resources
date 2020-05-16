@@ -1,5 +1,5 @@
 # my-fav-resources
-I find this stuff really helpful, & purpose of this repo, is to point beginners directly to a great collection of varied resources. 
+I find this stuff really helpful, & purpose of this repo, is to point fellow peeps directly to a great collection of varied resources. 
 
 
 #### Here goes
@@ -27,6 +27,8 @@ I find this stuff really helpful, & purpose of this repo, is to point beginners 
 8. Errichto - https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg
 9. Honeypot Developer Documentaries - https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA
 10. LiveOverflow - https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+11. Nick White - https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA
+12. 3Blue1Brown - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 
 ## Podcasts 
 1. React Podcast - Michael Chan
